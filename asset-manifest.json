@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-ytsAPI/static/css/main.746c6eb2.css",
+    "main.js": "/test-ytsAPI/static/js/main.0a98315d.js",
+    "static/media/remove-svgrepo-com.svg": "/test-ytsAPI/static/media/remove-svgrepo-com.3ef058cf6c0c99475999c6e224373484.svg",
+    "index.html": "/test-ytsAPI/index.html",
+    "main.746c6eb2.css.map": "/test-ytsAPI/static/css/main.746c6eb2.css.map",
+    "main.0a98315d.js.map": "/test-ytsAPI/static/js/main.0a98315d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746c6eb2.css",
+    "static/js/main.0a98315d.js"
+  ]
+}
